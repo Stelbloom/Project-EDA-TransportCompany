@@ -193,8 +193,6 @@ _A clear structure makes it easy for collaborators and team members to navigate.
 └── README.md
 ```
 
-You can adapt this to match your actual filenames and folder names.
-
 ---
 
 ## 🧩 From Insights to Impact: Recommendations
